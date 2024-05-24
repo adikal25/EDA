@@ -1,1 +1,1 @@
-This is a exploratory data  analysis on a black friday sales dataset
+This repository is for explanatory data analysis on various datasets.
