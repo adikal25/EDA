@@ -1,1 +1,1 @@
-This repository is for explanatory data analysis on various datasets.
+This repository is for practising explanatory data analysis on various datasets.
